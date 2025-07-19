@@ -28,6 +28,7 @@ This architecture is designed for scenarios requiring **secure ETH custody** wit
 ## ⚙️ Architecture
 
 ```text
+
               ┌──────────────────────────────┐
               │         Owner (EOA)          │
               └────────────┬─────────────────┘
@@ -45,7 +46,6 @@ This architecture is designed for scenarios requiring **secure ETH custody** wit
 
 
 ---
-
 
 
 ## 🔐 Key Features
